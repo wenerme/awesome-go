@@ -1916,6 +1916,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [fcm](https://github.com/maddevsio/fcm) - Go library for Firebase Cloud Messaging.
 * [gads](https://github.com/emiddleton/gads) - Google Adwords Unofficial API.
 * [gami](https://github.com/bit4bit/gami) - Go library for Asterisk Manager Interface.
+* [astgo](https://github.com/wenerme/astgo) - Go library for Asterisk AMI, AGI
 * [gcm](https://github.com/Aorioli/gcm) - Go library for Google Cloud Messaging.
 * [geo-golang](https://github.com/codingsince1985/geo-golang) - Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](http://geocoder.opencagedata.com/api.html), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs.
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub REST API v3.
